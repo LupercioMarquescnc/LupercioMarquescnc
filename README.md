@@ -29,7 +29,7 @@ With **15+ years of experience** in precision machining, CNC programming, toolin
 
 ### CNC-machined multi-cavity component
 
-![CNC-machined multi-cavity component](cnc-milling-mold-component.jpg)
+!F_WdwhNpT46dVqCaqOZeuoScjIjBTlG1ZSkN-bNwPpCdwD4nnzUDwS8R-z8IBIZq0elBHd1Igmxx4rfuH_8kcC5Zld7XEUkxgsp-Zt0TKuoKK3tu0QoJZw2b_CCrUhreAvOqJSkLdThBedBacCgJsmFUgEPT0lI6-7ILTO4p7y1vrna6FBN05FNEa7uaOkXj.jfif)
 
 A precision-machined component with multiple cavities, CNC milling operation. Alunium work piece, with edgecam software.
 ## Professional focus
