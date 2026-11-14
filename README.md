@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="images/profile-photo.png" width="210" alt="Lupercio Silva Marques in a CNC machining environment">
+<img src="profile-photo.png" width="210" alt="Lupercio Silva Marques in a CNC machining environment">
 
 # LUPÉRCIO SILVA MARQUES
 
