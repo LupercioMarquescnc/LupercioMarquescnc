@@ -68,7 +68,7 @@ My work focuses on precision, quality, safe machining practices, and reliable pr
 
 ### 2. CNC Machining Environment
 
-![Lupercio in a CNC machining environment](images/profile-photo.png)
+![Lupercio in a CNC machining environment](profile-photo.png)
 
 A professional photograph taken beside a CNC machine control panel, showing the industrial machining environment and personal protective equipment.
 
