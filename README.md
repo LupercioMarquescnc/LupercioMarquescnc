@@ -1,12 +1,4 @@
-LupercioMarquescnc/
-│
-├── README.md
-└── images/
-    ├── profile-photo.png
-    ├── cnc-machining-01.jpg
-    ├── cnc-machining-02.jpg
-    └── mold-making-01.jpg
-    <div align="center">
+<div align="center">
 
 <img src="images/profile-photo.png"
      width="220"
