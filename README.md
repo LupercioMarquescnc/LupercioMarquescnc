@@ -58,7 +58,7 @@ My work focuses on precision, quality, safe machining practices, and reliable pr
 
 ### 1. CNC-Machined Multi-Cavity Component
 
-![CNC-machined multi-cavity component](images/cnc-milling-mold-component.jpg)
+![CNC-machined multi-cavity component](cnc-milling-mold-component.jpg)
 
 **Process:** CNC milling  
 **Project area:** Precision machining / mold and tooling component  
