@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/profile-photo.png"
+<img src="images/Selfie no Centro de Usinagem.png"
      width="220"
      alt="Lupercio Silva Marques - CNC Machinist">
 
