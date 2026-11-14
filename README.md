@@ -1,4 +1,4 @@
-# Hi, I'm Lupércio Silva Marques 👋
+# Lupércio Silva Marques 
 
 **CNC Programmer · CNC Machinist · CAD/CAM Specialist**  
 Brazil · Open to international opportunities
@@ -31,8 +31,7 @@ With **15+ years of experience** in precision machining, CNC programming, toolin
 
 ![CNC-machined multi-cavity component](cnc-milling-mold-component.jpg)
 
-A precision-machined component with multiple cavities, shown during a CNC milling operation. Project details such as material, machining strategy, software, and inspection results can be added as they are confirmed.
-
+A precision-machined component with multiple cavities, CNC milling operation. Alunium work piece, with edgecam software.
 ## Professional focus
 
 I’m interested in contributing my hands-on machining and programming experience to an international manufacturing or precision-engineering team, while continuing to grow in advanced manufacturing.
