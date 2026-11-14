@@ -1,89 +1,42 @@
+# Hi, I'm Lupércio Silva Marques 👋
 
-<div align="left">
-
-<img src="profile-photo.png" width="210" alt="Lupercio Silva Marques in a CNC machining environment">
-
-# LUPÉRCIO SILVA MARQUES
-
-### CNC Programmer | CNC Machinist | CAD/CAM Specialist
-
-**15+ Years of Experience in Precision Machining, CNC Programming & Tooling**
-
+**CNC Programmer · CNC Machinist · CAD/CAM Specialist**  
 Brazil · Open to international opportunities
+
+With **15+ years of experience** in precision machining, CNC programming, tooling, and mold-related components, I focus on making parts accurately, safely, and reliably—from technical drawing and CAM workflow through machine setup, machining, and inspection.
 
 [LinkedIn](https://www.linkedin.com/in/luperciomarques-cnc) · [GitHub](https://github.com/LupercioMarquescnc)
 
-</div>
+![Lupércio Silva Marques in a CNC machining environment](profile-photo.png)
 
----
+## What I do
 
-## Professional Profile
-
-CNC Programmer and Machining Specialist with more than 15 years of experience in precision manufacturing, CNC milling and turning, tooling, and mold-related components.
-
-Experienced in CNC programming, machine setup and operation, troubleshooting, CAD/CAM workflows, technical drawings, 3D modeling, dimensional inspection, and manufacturing process improvement.
-
-My work focuses on precision, quality, safe machining practices, and reliable production.
-
-## Core Skills
-
-- CNC milling and turning
-- 4-axis machining experience
+- CNC milling and turning, including 4-axis machining
 - CNC programming and G-code
 - CAD/CAM programming and toolpath simulation
-- Tooling and mold-component manufacturing
 - Machine setup, operation, and troubleshooting
-- Technical drawings and 3D models
-- GD&T and dimensional inspection
+- Tooling and mold-component manufacturing
+- Technical drawings, 3D models, GD&T, and dimensional inspection
 - Cutting-tool and machining-process selection
 - Process optimization and continuous improvement
 
-## CAD/CAM Software
+## Tools and equipment
 
-- Edgecam
-- Siemens NX CAM
-- Mastercam
-- SolidCAM
-- Autodesk Fusion 360
-- Autodesk Inventor
+**CAD/CAM:** Edgecam · Siemens NX CAM · Mastercam · SolidCAM · Autodesk Fusion 360 · Autodesk Inventor  
+**Machines and controls:** Romi · Feeler · FANUC · Siemens
 
-## CNC Machines & Controls
+## Selected work
 
-- Romi CNC machines
-- Feeler CNC machines
-- FANUC controls
-- Siemens controls
-
-## Selected Portfolio Projects
-
-### 1. CNC-Machined Multi-Cavity Component
+### CNC-machined multi-cavity component
 
 ![CNC-machined multi-cavity component](cnc-milling-mold-component.jpg)
 
-**Process:** CNC milling  
-**Project area:** Precision machining / mold and tooling component  
-**Visible features:** A metal block with multiple machined cavities, shown during a machining operation with cutting fluid.
+A precision-machined component with multiple cavities, shown during a CNC milling operation. Project details such as material, machining strategy, software, and inspection results can be added as they are confirmed.
 
-**My contribution:** Exact machine, material, CAM software, machining strategy, and dimensional results will be added after verification.
+## Professional focus
 
-### 2. CNC Machining Environment
-
-![Lupercio in a CNC machining environment](profile-photo.png)
-
-A professional photograph taken beside a CNC machine control panel, showing the industrial machining environment and personal protective equipment.
-
-## More Projects Coming
-
-This portfolio will be expanded with verified examples of CNC milling, CNC turning, 4-axis machining, mold and tooling components, CAD/CAM programming and simulation, technical drawings, 3D models, precision inspection, and process improvement.
-
-## Professional Objective
-
-To contribute my machining and CNC programming experience to an international manufacturing or precision-engineering team, while continuing to develop my skills in advanced manufacturing.
+I’m interested in contributing my hands-on machining and programming experience to an international manufacturing or precision-engineering team, while continuing to grow in advanced manufacturing.
 
 ---
 
-<div align="center">
-
-**PRECISION · QUALITY · ENGINEERING · CONTINUOUS IMPROVEMENT**
-
-</div>
+**Precision · Quality · Engineering · Continuous improvement**
