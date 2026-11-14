@@ -1,16 +1,21 @@
-## Hi there 👋
+LupercioMarquescnc/
+│
+├── README.md
+└── images/
+    ├── profile-photo.png
+    ├── cnc-machining-01.jpg
+    ├── cnc-machining-02.jpg
+    └── mold-making-01.jpg
+    <div align="center">
 
-<!--
-**LupercioMarquescnc/LupercioMarquescnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="images/profile-photo.png"
+     width="220"
+     alt="Lupercio Silva Marques - CNC Machinist">
 
-Here are some ideas to get you started:
+# LUPÉRCIO SILVA MARQUES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CNC Programmer | CNC Machinist | CAD/CAM Specialist
+
+**15+ Years of Experience in Precision Manufacturing**
+
+</div>
