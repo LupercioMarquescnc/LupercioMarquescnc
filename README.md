@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
 
 <img src="profile-photo.png" width="210" alt="Lupercio Silva Marques in a CNC machining environment">
 
