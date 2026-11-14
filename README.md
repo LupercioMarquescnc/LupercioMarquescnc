@@ -1,20 +1,4 @@
-LupercioMarquescnc/
-├── README.md
-├── index.html
-├── .nojekyll
-├── images/
-│   ├── profile-photo.png
-│   └── cnc-milling-mold-component.jpg
-└── projects/
-    └── README.mdLupercioMarquescnc/
-├── README.md
-├── index.html
-├── .nojekyll
-├── images/
-│   ├── profile-photo.png
-│   └── cnc-milling-mold-component.jpg
-└── projects/
-    └── README.md
+
 <div align="center">
 
 <img src="images/profile-photo.png" width="210" alt="Lupercio Silva Marques in a CNC machining environment">
