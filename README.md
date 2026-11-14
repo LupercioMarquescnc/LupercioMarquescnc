@@ -29,7 +29,7 @@ With **15+ years of experience** in precision machining, CNC programming, toolin
 
 ### CNC-machined multi-cavity component
 
-[(molde de injeção.png.jfif)
+(molde de injeção.png.jfif)
 
 A precision-machined component with multiple cavities, CNC milling operation. Alunium work piece, with edgecam software.
 ## Professional focus
